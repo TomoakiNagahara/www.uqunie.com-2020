@@ -37,3 +37,6 @@
 [submodule "asset/develop"]
 	path = asset/develop
 	url = https://github.com/onepiece-framework/module-develop.git
+[submodule "asset/layout/uqunie"]
+	path = asset/layout/uqunie
+	url = https://github.com/TomoakiNagahara/op-layout-uqunie.com.git

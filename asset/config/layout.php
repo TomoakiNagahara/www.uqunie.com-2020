@@ -23,5 +23,5 @@ namespace OP;
 return [
 	'directory' => 'asset:/layout/',
 	'execute'   =>  true,
-	'name'      => 'white',
+	'name'      => 'uqunie',
 ];

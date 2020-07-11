@@ -31,7 +31,7 @@ $args = $app->Args();
 if( empty($args) ){
 	//	Access is top page.
 	//	Welcome page is in asset/template directory.
-	$app->Template('welcome.phtml');
+	$app->Template('index.phtml');
 }else{
 	//	Execute 404.php
 	$app->Template('404.php');
